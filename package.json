@@ -1,0 +1,38 @@
+{
+  "name": "react-native-checkbox-cus",
+  "version": "1.0.0",
+  "description": "勾选框",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-checkbox-cus.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-checkbox",
+    "check-box",
+    "check",
+    "box",
+    "react-component",
+    "react-native-checkbox-cus",
+    "ios",
+    "android",
+    "勾选",
+    "勾选框"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-checkbox-cus/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-checkbox-cus#readme"
+}
