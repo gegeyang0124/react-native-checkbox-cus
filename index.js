@@ -21,7 +21,16 @@ import {
 } from 'react-native';
 import PropTypes from 'prop-types';
 
-
+/**
+ * 需要修改js封装层 leftText rightText 样式中flex去掉 ，
+ * onClick事件传出是否选中，true或false ,改PropTypes.func.isRequired为非必须传入 PropTypes.func
+ * leftText和rightText样式删掉
+ * rightTextStyle和leftTextStyle样式改成PropTypes.oneOfType([
+ PropTypes.array,
+ PropTypes.object,
+ PropTypes.number
+ ])
+ * **/
 export default class CheckBox extends Component {
     constructor(props) {
         super(props);
