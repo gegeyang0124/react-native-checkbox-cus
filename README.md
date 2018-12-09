@@ -5,7 +5,7 @@
 npm i --save react-native-checkbox-cus
 
 ### 展示
-![ui展示图](https://thumbnail0.baidupcs.com/thumbnail/66d63c78b04f3659815b5486033c3f9f?fid=2334753321-250528-1005379028063397&time=1544061600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-ZW9tDNTjtist%2Fq%2Bxbm2MtQaSF%2FY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7872941636403983091&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![ui展示图](https://github.com/gegeyang0124/react-native-checkbox-cus/blob/master/showImg/chk.jpg)
 
 ### 使用
 ```javascript
