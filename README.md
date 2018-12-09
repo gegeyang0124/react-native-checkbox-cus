@@ -6,6 +6,10 @@ npm i --save react-native-checkbox-cus
 
 ### 展示
 ![ui展示图](https://github.com/gegeyang0124/react-native-checkbox-cus/blob/master/showImg/chk.jpg)
+<p>
+    <img src ="https://github.com/gegeyang0124/react-native-checkbox-cus/blob/master/showImg/chk.jpg" 
+          height="auto" width="400" />
+</p>
 
 ### 使用
 ```javascript
